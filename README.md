@@ -6,8 +6,7 @@ In the folowing I tried to identify and analyze the relationships between differ
 - Compute log returns for the S&P 500 components for same time period
 - Compute the correlation matrix for the above log returns
 - Find out the Top n central and peripheral stocks based on the following network topological parameters:
-
--- Degree centrality
+* Degree centrality
 Closeness centrality
 Betweenness centrality
 Eigenvector centrality
