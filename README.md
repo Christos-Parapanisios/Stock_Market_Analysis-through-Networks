@@ -1,7 +1,7 @@
 ## Stock_Market_Analysis-through-Networks
 In the folowing I tried to identify and analyze the relationships between different stocks in the S&P 500 index using network theory and statistical methods.
 
-### Approach
+#### Approach
 - Collect the stock data for all S&P 500 components from 04/January/2010 till 29/December/2023 from yahoo finance.
 - Compute log returns for the S&P 500 components for same time period
 - Compute the correlation matrix for the above log returns
