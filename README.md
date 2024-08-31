@@ -16,6 +16,6 @@ In the folowing I tried to identify and analyze the relationships between differ
   - Closeness and Eigenvector Centrality
   - Normalize and combine centrality scores
   - Ranking of Stocks using Centrality and Distance-Based Metrics
-Simulate the performance of Central and Peripheral portfolios against new historical data of the year 2024 for the S&P 500.
+- Simulate the performance of Central and Peripheral portfolios against new historical data of the year 2024 for the S&P 500.
 
-Note: This is an open-source notebook that I developed for my personal research as a Data Scientist, it's purpose is not intended for investment recommendations or propositions.
+**Note:** This is an open-source notebook that I developed for my personal research as a Data Scientist, it's purpose is not intended for investment recommendations or propositions.
